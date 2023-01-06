@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is Kartheek Nadella. Pursing MS in CS🎓 at NJIT
+This is Kartheek Nadella. Graduated Student from NJIT MS in CS🎓
 
 👉🏼 Focus on DSA and web development
 
