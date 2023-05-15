@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-This is Kartheek Nadella. NJIT Graduate - MS in CS🎓
+This is Kartheek Nadella.
+Graduate - MS in CS🎓'23
 
 👉🏼 Focus on DSA and web development
 
