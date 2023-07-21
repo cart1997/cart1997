@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-This is Kartheek Nadella.
-Graduate MS in CS🎓'23
+This is Kartheek
+Graduate MS in CS🎓'22
 
 👉🏼 Focus on DSA and web development
 
