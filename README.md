@@ -1,8 +1,4 @@
 ### Hi there 👋
 
-This is Kartheek
-Graduate MS in CS🎓'22
-
-👉🏼 Focus on DSA and web development
-
-👉🏼 Talk about TechNews👨🏻‍💻, Movies🎬 love Cooking🥘, and Cooding👨🏻‍💻
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=This+is+Kartheek;👉🏼+Focus+on+DSA+and+web+development+line+of+text)](https://git.io/typing-svg)
