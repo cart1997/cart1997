@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there ![alt text](https://kartheek-nadella.netlify.app/Icons/hand-wave.gif)
 
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=600&pause=1000&color=D8F7A7&background=FF000000&random=false&width=435&lines=This+is+Kartheek+Nadella;Focus+on+DSA+%26+Web+Development)](https://git.io/typing-svg)
